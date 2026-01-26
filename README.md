@@ -1,7 +1,5 @@
-### **NOTE - Dataset size above 25MB unable to upload**
-
 ---
-title: AI NIDS Student Project
+title: AI NIDS Project
 emoji: 🛡️
 colorFrom: blue
 colorTo: green
@@ -11,7 +9,7 @@ app_file: app.py
 pinned: false
 ---
 
-# 🛡️ AI-Based Network Intrusion Detection System (Student Project)
+# 🛡️ AI-Based Network Intrusion Detection System
 
 This project demonstrates how to use **Machine Learning (Random Forest)** and **Generative AI (Grok)** to detect and explain network attacks (specifically DDoS).
 
@@ -25,6 +23,6 @@ This project demonstrates how to use **Machine Learning (Random Forest)** and **
 - `app.py`: The main Python application code.
 - `requirements.txt`: List of libraries used.
 - `Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv`: The dataset (CIC-IDS2017 subset).
-### **NOTE - Dataset size above 25MB unable to upload**
+### **NOTE - Dataset size above 25MB, unable to upload**
 ## 🎓 About
 Created for a university cybersecurity project to demonstrate the integration of traditional ML and LLMs in security operations.
