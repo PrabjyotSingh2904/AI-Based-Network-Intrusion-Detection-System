@@ -1,8 +1,6 @@
 ---
 title: AI NIDS Project
 emoji: 🛡️
-colorFrom: blue
-colorTo: green
 sdk: streamlit
 sdk_version: 1.39.0
 app_file: app.py
